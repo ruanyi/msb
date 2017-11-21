@@ -1,5 +1,5 @@
 # msb
-报文服务总线
+报文服务总线：message service bus
 
 # on the way
 
